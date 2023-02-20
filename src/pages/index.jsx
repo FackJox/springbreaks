@@ -98,7 +98,7 @@ export default function Page(props) {
     </GumballIns> : null }
 
     { caveraveText ?     <CaveraveIns >
-      Cave Rave{' '}
+      Cave Rave II{' '}
     </CaveraveIns> : null }
 
     </>

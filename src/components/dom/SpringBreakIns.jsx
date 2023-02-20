@@ -1,4 +1,4 @@
-export default function Instructions({ children }) {
+export default function SpringbreakIns({ children }) {
   return (
     <div
       className='absolute max-w-lg px-10 py-8 text-sm bg-zinc-800 rounded-lg shadow-xl md:text-base top-40 left-1/2 transform -translate-x-1/2'
