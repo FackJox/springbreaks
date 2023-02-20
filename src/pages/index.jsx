@@ -20,7 +20,7 @@ const GumballText = dynamic(() => import('@/components/canvas/GumballText'), { s
 const CaveraveText = dynamic(() => import('@/components/canvas/CaveraveText'), { ssr: false })
 const CaveraveIns = dynamic(() => import('@/components/dom/CaveraveIns'), { ssr: true })
 const GumballIns = dynamic(() => import('@/components/dom/GumballIns'), { ssr: true })
-const SpringbreakIns = dynamic(() => import('@/components/dom/SpringbreakIns'), { ssr: true })
+const SpringbreakIns = dynamic(() => import('@/components/dom/SpringsbreakIns'), { ssr: true })
 const ToneComponent = dynamic(() => import('@/components/canvas/Tone'), { ssr: true })
 
 // const [textVisibility, setTextVisibility] = useState({
